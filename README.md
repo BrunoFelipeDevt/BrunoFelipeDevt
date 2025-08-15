@@ -27,7 +27,7 @@
   <img align="center" alt="Supabase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg">
   
   <!-- Cloud & DevOps -->
-  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/> <!-- CORRIGIDO -->
+  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/> 
   <img align="center" alt="Vercel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   
@@ -39,31 +39,12 @@
 
 ---
 
-## 📊 Estatísticas no GitHub
-<div align="center">
-  <!-- Gráfico de atividade geral -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunofelipe&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  
-  <!-- Gráfico de linguagens -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofelipe&layout=compact&langs_count=7&theme=react&hide_border=true&bg_color=0D1117"/>
-</div>
-
----
-
 ## 🎯 Projetos em Destaque
 > 🚧 **Em construção!** Em breve você verá aqui projetos com:
 > - APIs RESTful com Django + AWS
 > - Aplicações Full-stack (Next.js + Django)
 > - Scripts de automação em Cloud
 > - Soluções com Supabase e Vercel
-
-<!-- Exemplo para quando tiver projetos:
-<div align="center">
-  <a href="https://github.com/brunofelipe/nome-do-projeto">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunofelipe&repo=nome-do-projeto&theme=react" />
-  </a>
-</div>
--->
 
 ---
 
@@ -78,22 +59,8 @@
 ## 📚 Formação Acadêmica
 | Instituição | Curso | Período |
 |-------------|-------|---------|
-| **UESC** | Ciência da Computação | 202X – 2025 (Previsão) |
+| **UESC** | Ciência da Computação | 2021 – Cursando |
 | **CPMRG** | Ensino Médio | 2016 – 2019 |
-
----
-
-## 🎓 Certificações & Cursos
-<div align="center">
-  <!-- AWS -->
-  <img src="https://img.shields.io/badge/AWS-CLF_C02-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <!-- Django -->
-  <img src="https://img.shields.io/badge/Django-REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <!-- UI/UX -->
-  <img src="https://img.shields.io/badge/UI%2FUX-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <!-- Data Science -->
-  <img src="https://img.shields.io/badge/Data_Science-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</div>
 
 ---
 
