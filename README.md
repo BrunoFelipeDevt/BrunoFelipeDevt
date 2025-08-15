@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre Mim
 > 🎓 **Ciência da Computação** na [UESC](https://www.uesc.br/)  
-> 💼 **Bolsista de Desenvolvimento Web** na [NUCOM](https://www.uesc.br/nucleos/nucleo-de-comunicacao-nucom/)  
+> 💼 **Bolsista de Desenvolvimento Web** na Núcleo de Comunicação 
 > ☁️ **Aprofundando conhecimentos em Cloud Computing (AWS)**  
 > 🌱 Apaixonado por criar soluções escaláveis com **Django, Next.js e Cloud**  
 > 🎯 Objetivo: Estágio em Cloud/Back-end para construir aplicações de alto impacto  
@@ -68,7 +68,6 @@
 <div>
   <a href="https://www.linkedin.com/in/bruno-felipe-dos-santos-pereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:brunofelipecoder@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/seu-perfil" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 ---
