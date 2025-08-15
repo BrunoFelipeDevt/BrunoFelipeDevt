@@ -74,7 +74,7 @@
 ---
 
 ## 🏆 Participação em Eventos
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/SINFORM-2021%2F2022-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ENEJ-2023-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Campus_Party_Nordeste-2024-red?style=for-the-badge" />
