@@ -1,9 +1,5 @@
 # 👋 Olá, eu sou Bruno Felipe!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF7F&width=435&lines=Estudante+de+Ciência+da+Computação;Desenvolvedor+Back-end+em+Formação;Buscando+oportunidades+de+estágio)](https://git.io/typing-svg)
-
----
-
 ## 🚀 Sobre Mim
 > 🎓 **Ciência da Computação** na [UESC](https://www.uesc.br/)  
 > 💻 Focado em **Back-end Development** com Python e Django  
