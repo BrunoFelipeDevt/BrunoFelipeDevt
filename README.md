@@ -1,9 +1,5 @@
 # 👋 Olá, eu sou Bruno Felipe!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF7F&width=435&lines=Desenvolvedor+Web+Full-Stack;Cloud+Computing+Enthusiast;AWS+em+Foco;Buscando+Oportunidades+de+Estágio)](https://git.io/typing-svg)
-
----
-
 ## 🚀 Sobre Mim
 > 🎓 **Ciência da Computação** na [UESC](https://www.uesc.br/)  
 > 💼 **Bolsista de Desenvolvimento Web** na [NUCOM](https://www.uesc.br/nucleos/nucleo-de-comunicacao-nucom/)  
@@ -31,7 +27,7 @@
   <img align="center" alt="Supabase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg">
   
   <!-- Cloud & DevOps -->
-  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/> <!-- CORRIGIDO -->
   <img align="center" alt="Vercel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   
@@ -45,8 +41,11 @@
 
 ## 📊 Estatísticas no GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunofelipe&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofelipe&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+  <!-- Gráfico de atividade geral -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunofelipe&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  
+  <!-- Gráfico de linguagens -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofelipe&layout=compact&langs_count=7&theme=react&hide_border=true&bg_color=0D1117"/>
 </div>
 
 ---
